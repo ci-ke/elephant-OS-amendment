@@ -1,0 +1,1 @@
+void *get_a_page_for_init(uint32_t vaddr);

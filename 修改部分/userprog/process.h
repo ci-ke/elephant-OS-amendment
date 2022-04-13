@@ -1,0 +1,1 @@
+void process_execute(uint32_t lba, uint32_t sec_cnt, char *name);
